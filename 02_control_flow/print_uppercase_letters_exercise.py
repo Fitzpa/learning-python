@@ -8,9 +8,9 @@ and Public Health, what have the Romans ever done for us?
 """
 
 # Use a for loop and an if statement to print just the capitals in the quote above.
-uppercaseLetters = ""
+uppercase_letters = ""
 for char in quote:
     if str(char).isupper():
-        uppercaseLetters += char
+        uppercase_letters += char
 
-print(uppercaseLetters)
+print(uppercase_letters)
