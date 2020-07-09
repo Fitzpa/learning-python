@@ -1,4 +1,6 @@
-a = 'hello'
-b = 'world'
-print(a + ' ' + b)
+""" First Python Program """
+
+first = 'hello'
+second = 'world'
+print(first + ' ' + second)
 # first hello world program
